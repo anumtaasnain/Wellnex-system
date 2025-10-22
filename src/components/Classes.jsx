@@ -99,7 +99,7 @@ export default function Classes() {
                <div className="text-center mt-4" data-aos="zoom-in">
               <a
                 href="#schedule"
-                className="btn btn-outline-danger rounded-pill px-4 py-4 fw-semibold"
+                className="btn btn-outline-danger rounded-pill  fw-semibold mb-3"
                 style={{
                   transition: "all 0.3s ease",
                   boxShadow: "0 3px 10px rgba(255, 0, 0, 0.15)",
