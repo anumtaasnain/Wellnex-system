@@ -94,7 +94,10 @@ export default function WhyWellnex() {
         ))}
       </div>
 
-      <div className="container" style={{ position: "relative", zIndex: 5 }}>
+      <div className="container" style={{ position: "relative", zIndex: 5, width: "100%",      
+          maxWidth: "1200px", 
+          margin: "0 auto",    
+          overflow: "hidden",  }}>
         {/* Section Header */}
         <div
           className="text-center mb-5"
